@@ -200,6 +200,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For further information or queries, please reach out via email at [nirmalsai22@gmail.com].
+For further information or queries, please reach out via email at [saideeprangoni634@gmail.com].
 
-Feel free to connect with me on Linkedin - [LinkedIn](https://www.linkedin.com/in/nirmal-sai-swaroop-janapaneedi-4aa5632a7/)
+Feel free to connect with me on Linkedin - [LinkedIn](https://www.linkedin.com/in/saideep-rangoni-54abb9300/)
